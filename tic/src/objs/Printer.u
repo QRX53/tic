@@ -1,5 +1,0 @@
-#import <q.std>;
-
-pub async fn print(str):
-    std::coutln(str);
-end

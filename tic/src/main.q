@@ -1,5 +1,5 @@
 #import <q.std>;
-#import <q.Random>;
+#import <q.io>;
 
 class Tic {
 
